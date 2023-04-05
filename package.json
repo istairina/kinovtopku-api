@@ -1,0 +1,14 @@
+{
+  "name": "kinovtopku",
+  "version": "1.0.0",
+  "description": "json server api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "istairina",
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  }
+}
