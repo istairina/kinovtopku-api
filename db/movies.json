@@ -15,7 +15,8 @@
       "assets/images/01_KillerTomaten_screenshot01s.webp",
       "assets/images/01_KillerTomaten_screenshot02s.webp",
       "assets/images/01_KillerTomaten_screenshot03s.webp"
-    ]
+    ],
+    "type": "movie"
   },
   {
     "id": 2,
@@ -38,6 +39,31 @@
       "assets/images/02_Mario_screenshot01s.webp",
       "assets/images/02_Mario_screenshot02s.webp",
       "assets/images/02_Mario_screenshot03s.webp"
-    ]
+    ],
+    "type": "movie"
+  },
+  {
+    "id": 3,
+    "title": "Вся такая внезапная",
+    "release": "18 июня 2007",
+    "director": ["Карен Захаров", "Олег Смольников", "Леонид Мазор"],
+    "screenwriter": ["Алексей Гордовский", "Михаил Васильев", "Нина Шулика"],
+    "operator": ["Юрий Важнов", "Александр Третьяков"],
+    "starring": [
+      "Анна Семенович",
+      "Игорь Верник",
+      "Захар Ронжин",
+      "Сергей Шустицкий",
+      "Татьяна Абрамова"
+    ],
+    "shortDescription": "Красавица Александра Стрелкина бросает жениха-олигарха, сбегает с собственной свадьбы и отказывается от безоблачной и обеспеченной жизни...",
+    "description": "В свои 25 лет Александра Стрелкина активна, умна и чертовски привлекательна. Знакомство с солидным женихом Борисом Богатовым могло изменить всю ее жизнь, но перед алтарем Александра вдруг понимает, что не желает жить в золотой клетке. Девушка становится автором собственной колонки «Вся такая внезапная». ",
+    "poster": "assets/images/03_Vnezapnaya_prewiew.webp",
+    "preview": "assets/images/03_Vnezapnaya_prewiew.webp",
+    "screenshots": [
+      "assets/images/03_Vnezapnaya_screenshot01.webp",
+      "assets/images/03_Vnezapnaya_screenshot01.webp"
+    ],
+    "type": "movie"
   }
 ]
